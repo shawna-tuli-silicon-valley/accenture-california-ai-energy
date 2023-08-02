@@ -9,4 +9,4 @@
 • [California just ran on 100% renewable energy, but fossil fuels aren't fading away yet](https://www.npr.org/2022/05/07/1097376890/for-a-brief-moment-calif-fully-powered-itself-with-renewable-energy)
 
 # How AI can forecast energy in the utilities industry
-Q: How can we predict energy usage per source (coal, petroleum, renewables, nuclear, etc.) in California? 
+Q2: How can we predict energy usage per source (coal, petroleum, renewables, nuclear, etc.) in California? 
