@@ -10,3 +10,4 @@
 
 # How AI can forecast energy in the utilities industry
 Q2: How can we predict energy usage per source (coal, petroleum, renewables, nuclear, etc.) in California? 
+__________________________________________________________________________________________________________________________________________
