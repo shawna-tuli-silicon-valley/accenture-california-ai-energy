@@ -15,3 +15,5 @@ Q2: How can we predict energy usage per source (coal, petroleum, renewables, nuc
 
 ![ics](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2/assets/19508013/f0600aa4-b467-4b15-997b-003ae903efbf)
 __________________________________________________________________________________________________________________________________________
+
+[SoCal_Fellowship_Poster.pdf](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2/files/12264794/SoCal_Fellowship_Poster.pdf)
