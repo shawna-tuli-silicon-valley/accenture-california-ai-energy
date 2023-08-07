@@ -17,3 +17,5 @@ Q2: How can we predict energy usage per source (coal, petroleum, renewables, nuc
 __________________________________________________________________________________________________________________________________________
 
 • [Shawna Tuli 2023 Predicting Energy Consumption in California](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2/blob/main/poster/SoCal_Fellowship_Poster.pdf)
+
+[SoCal_Fellowship_Poster.pdf](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2/files/12282518/SoCal_Fellowship_Poster.pdf)
