@@ -3,10 +3,9 @@
 ![ava](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2/assets/19508013/628d04ef-0561-4236-9d58-eb1c43cadc22)
 ![microsoft](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2/assets/19508013/ce8cb8e3-dfe0-4358-a3cf-3fd88ea8a9bb)
 
-# NPR 
 • [California just ran on 100% renewable energy, but fossil fuels aren't fading away yet](https://www.npr.org/2022/05/07/1097376890/for-a-brief-moment-calif-fully-powered-itself-with-renewable-energy)
 
-# How AI can forecast energy in the utilities industry
+# # California Energy Consumption Prediction 
 Q2: How can we predict energy usage per source (coal, petroleum, renewables, nuclear, etc.) in California?
 
 ![download](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2/assets/19508013/fcad68a0-61c0-4382-9087-cbee11b42823)
